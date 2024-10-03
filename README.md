@@ -1,2 +1,2 @@
 # Demo-Repo
-This is just a github repo for training
+This is a practice change made directly on GitHub.
